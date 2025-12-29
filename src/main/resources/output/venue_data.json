@@ -1,0 +1,378 @@
+{
+    "Shopping Mall": [
+        {
+            "name": "UB City",
+            "latitude": "12.971708980695311",
+            "longitude": "77.59590528412356",
+            "rating": "9.0"
+        }
+    ],
+    "Hotel": [
+        {
+            "name": "JW Marriott Hotel Bengaluru",
+            "latitude": "12.972361772490226",
+            "longitude": "77.59505132638924",
+            "rating": "8.7"
+        },
+        {
+            "name": "ITC Gardenia",
+            "latitude": "12.967010443286327",
+            "longitude": "77.59561763159581",
+            "rating": "8.4"
+        },
+        {
+            "name": "The Ritz-Carlton",
+            "latitude": "12.967478847122125",
+            "longitude": "77.60175515707783",
+            "rating": "8.5"
+        },
+        {
+            "name": "Taj West End",
+            "latitude": "12.984572066608893",
+            "longitude": "77.58489294114838",
+            "rating": "9.0"
+        },
+        {
+            "name": "The Oberoi",
+            "latitude": "12.973457334267048",
+            "longitude": "77.61828850236205",
+            "rating": "9.0"
+        },
+        {
+            "name": "The Elanza Hotel",
+            "latitude": "12.965258026120997",
+            "longitude": "77.60216832457864",
+            "rating": "7.8"
+        }
+    ],
+    "Deli / Bodega": [
+        {
+            "name": "Smoke House Deli",
+            "latitude": "12.971656175823421",
+            "longitude": "77.59825417986832",
+            "rating": "8.9"
+        }
+    ],
+    "Italian Restaurant": [
+        {
+            "name": "Toscano",
+            "latitude": "12.97198038085137",
+            "longitude": "77.59606565238312",
+            "rating": "8.6"
+        },
+        {
+            "name": "Sunny's",
+            "latitude": "12.972023446176495",
+            "longitude": "77.59845399703514",
+            "rating": "8.0"
+        }
+    ],
+    "Japanese Restaurant": [
+        {
+            "name": "Shiro",
+            "latitude": "12.971899559077535",
+            "longitude": "77.59623643170688",
+            "rating": "8.4"
+        }
+    ],
+    "Park": [
+        {
+            "name": "Cubbon Park",
+            "latitude": "12.977042175203783",
+            "longitude": "77.59527683258057",
+            "rating": "8.8"
+        }
+    ],
+    "French Restaurant": [
+        {
+            "name": "Caf\u00e9 Noir",
+            "latitude": "12.971994746343674",
+            "longitude": "77.59600119604778",
+            "rating": "8.4"
+        }
+    ],
+    "Burger Joint": [
+        {
+            "name": "Truffles - Ice & Spice",
+            "latitude": "12.971801622357315",
+            "longitude": "77.60103059863826",
+            "rating": "8.9"
+        },
+        {
+            "name": "Peppa Zzing",
+            "latitude": "12.979700117783468",
+            "longitude": "77.60590748359836",
+            "rating": "8.4"
+        }
+    ],
+    "Sushi Restaurant": [
+        {
+            "name": "Harima",
+            "latitude": "12.967754615278329",
+            "longitude": "77.60007264264614",
+            "rating": "8.9"
+        }
+    ],
+    "Lounge": [
+        {
+            "name": "Skyye",
+            "latitude": "12.971645639193747",
+            "longitude": "77.5962418409012",
+            "rating": "8.3"
+        },
+        {
+            "name": "Spice Terrace",
+            "latitude": "12.972254412315774",
+            "longitude": "77.59520025975598",
+            "rating": "8.2"
+        },
+        {
+            "name": "The 13th Floor",
+            "latitude": "12.975363633712803",
+            "longitude": "77.60499494028885",
+            "rating": "8.4"
+        },
+        {
+            "name": "Bang",
+            "latitude": "12.967505348132486",
+            "longitude": "77.60175724365959",
+            "rating": "7.8"
+        }
+    ],
+    "Cupcake Shop": [
+        {
+            "name": "Bliss Luxe Chocolate Lounge",
+            "latitude": "12.971525048534971",
+            "longitude": "77.5962009156297",
+            "rating": "8.2"
+        }
+    ],
+    "Ice Cream Shop": [
+        {
+            "name": "Corner House",
+            "latitude": "12.972979021383468",
+            "longitude": "77.59997124258985",
+            "rating": "8.5"
+        },
+        {
+            "name": "Natural Ice Cream",
+            "latitude": "12.971377630166776",
+            "longitude": "77.60098865044374",
+            "rating": "8.4"
+        }
+    ],
+    "American Restaurant": [
+        {
+            "name": "Hard Rock Cafe Bengaluru",
+            "latitude": "12.9763894",
+            "longitude": "77.6014683",
+            "rating": "8.8"
+        }
+    ],
+    "Cricket Ground": [
+        {
+            "name": "M. Chinnaswamy Stadium",
+            "latitude": "12.978144481391702",
+            "longitude": "77.599222834094",
+            "rating": "8.7"
+        }
+    ],
+    "Asian Restaurant": [
+        {
+            "name": "J W Kitchen",
+            "latitude": "12.972410384127292",
+            "longitude": "77.59459191743764",
+            "rating": "8.1"
+        }
+    ],
+    "Gym / Fitness Center": [
+        {
+            "name": "ZELA",
+            "latitude": "12.966769227044788",
+            "longitude": "77.59961843320848",
+            "rating": "8.5"
+        }
+    ],
+    "Breakfast Spot": [
+        {
+            "name": "Airlines Hotel",
+            "latitude": "12.972947919226808",
+            "longitude": "77.59983134872871",
+            "rating": "8.3"
+        }
+    ],
+    "Plaza": [
+        {
+            "name": "M.G Road Boulevard",
+            "latitude": "12.9757705183477",
+            "longitude": "77.60397895324303",
+            "rating": "8.8"
+        }
+    ],
+    "Bakery": [
+        {
+            "name": "Bengaluru Baking Co.",
+            "latitude": "12.97176075574658",
+            "longitude": "77.59512829674657",
+            "rating": "8.0"
+        }
+    ],
+    "Furniture / Home Store": [
+        {
+            "name": "Good Earth - Bunglow Store",
+            "latitude": "12.971606323283227",
+            "longitude": "77.59783835355319",
+            "rating": "8.1"
+        }
+    ],
+    "Fried Chicken Joint": [
+        {
+            "name": "Kentacky Chicken Corner",
+            "latitude": "12.96626031294609",
+            "longitude": "77.59521667672887",
+            "rating": "8.1"
+        }
+    ],
+    "Boutique": [
+        {
+            "name": "Louis Vuitton",
+            "latitude": "12.971504833704968",
+            "longitude": "77.59607705364621",
+            "rating": "7.9"
+        }
+    ],
+    "Bookstore": [
+        {
+            "name": "Blossom Book House",
+            "latitude": "12.975041955414428",
+            "longitude": "77.60481252972643",
+            "rating": "8.4"
+        }
+    ],
+    "Toy / Game Store": [
+        {
+            "name": "The Entertainment Store",
+            "latitude": "12.975412545526549",
+            "longitude": "77.60304487409013",
+            "rating": "8.2"
+        }
+    ],
+    "Tea Room": [
+        {
+            "name": "Infinitea",
+            "latitude": "12.987156756402875",
+            "longitude": "77.59483450996156",
+            "rating": "8.9"
+        }
+    ],
+    "Indian Restaurant": [
+        {
+            "name": "Kebabs & Kurries",
+            "latitude": "12.966995168539182",
+            "longitude": "77.59561272109826",
+            "rating": "7.9"
+        },
+        {
+            "name": "Masala Klub",
+            "latitude": "12.984992722558056",
+            "longitude": "77.585114632884",
+            "rating": "8.3"
+        }
+    ],
+    "Coffee Shop": [
+        {
+            "name": "Starbucks",
+            "latitude": "12.974435613139992",
+            "longitude": "77.60730764890275",
+            "rating": "8.4"
+        }
+    ],
+    "Caf\u00e9": [
+        {
+            "name": "Matteo",
+            "latitude": "12.974496161362197",
+            "longitude": "77.60711549239568",
+            "rating": "8.3"
+        },
+        {
+            "name": "Smally's RestoCafe",
+            "latitude": "12.974411986951955",
+            "longitude": "77.60723447212474",
+            "rating": "8.1"
+        }
+    ],
+    "Pub": [
+        {
+            "name": "Church Street Social",
+            "latitude": "12.975559069066918",
+            "longitude": "77.60257885565107",
+            "rating": "8.0"
+        },
+        {
+            "name": "Plan B",
+            "latitude": "12.96211048113096",
+            "longitude": "77.6014703382431",
+            "rating": "8.2"
+        },
+        {
+            "name": "Plan B",
+            "latitude": "12.967779043693422",
+            "longitude": "77.60730657768812",
+            "rating": "8.2"
+        },
+        {
+            "name": "The Permit Room",
+            "latitude": "12.970388002346207",
+            "longitude": "77.61035835079866",
+            "rating": "8.3"
+        }
+    ],
+    "Brewery": [
+        {
+            "name": "Arbor Brewing Company",
+            "latitude": "12.970139599197337",
+            "longitude": "77.61085658133437",
+            "rating": "8.6"
+        }
+    ],
+    "Afghan Restaurant": [
+        {
+            "name": "Samarkand",
+            "latitude": "12.980616230542605",
+            "longitude": "77.60466776400496",
+            "rating": "8.3"
+        }
+    ],
+    "Cocktail Bar": [
+        {
+            "name": "Toast and Tonic",
+            "latitude": "12.966741280202402",
+            "longitude": "77.60873291751892",
+            "rating": "8.3"
+        }
+    ],
+    "Andhra Restaurant": [
+        {
+            "name": "Nagarjuna",
+            "latitude": "12.973144974771415",
+            "longitude": "77.60926282792666",
+            "rating": "8.2"
+        }
+    ],
+    "Steakhouse": [
+        {
+            "name": "Millers 46",
+            "latitude": "12.991665958945687",
+            "longitude": "77.59420704126842",
+            "rating": "8.7"
+        }
+    ],
+    "Seafood Restaurant": [
+        {
+            "name": "Hotel Fishland",
+            "latitude": "12.975568890049333",
+            "longitude": "77.57859164076424",
+            "rating": "8.2"
+        }
+    ]
+}
