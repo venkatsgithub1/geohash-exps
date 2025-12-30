@@ -6,7 +6,7 @@ os.chdir('.')
 print(os.getcwd())
 with open('./src/main/resources/output/place_data.csv', 'w') as opfile1, open('./src/main/resources/input/zomato_locations.csv', 'r') as file1:
     file1Reader = csv.reader(file1)
-    file1Writer = csv.writer(opfile1)
+    file1Writer = csv.writer(opfile1, delimiter='~')
     header_row = next(file1Reader)
     for row in file1Reader:
         name_of_place = row[0]
