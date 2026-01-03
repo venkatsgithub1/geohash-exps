@@ -2,6 +2,7 @@ package org.example.service;
 
 import ch.hsr.geohash.GeoHash;
 import ch.hsr.geohash.util.VincentyGeodesy;
+import org.example.model.ResultWithDistance;
 
 import java.util.List;
 
@@ -27,7 +28,7 @@ public class GeoHashService implements GeoService {
     }
 
     @Override
-    public List<String> findNearbyEstablishments(double latitude, double longitude, int precision, int limit) {
+    public List<ResultWithDistance> findNearbyEstablishments(double latitude, double longitude, int precision, int limit) {
         return List.of();
     }
 }

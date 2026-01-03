@@ -1,4 +1,4 @@
-package org.example.model;
+package org.example.model.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -6,17 +6,15 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.Data;
 
-@Table(name="venues")
+@Table(name="places")
 @Data
 @Entity
-public class Venues {
+public class Places {
     @Id
     private long id;
     private String name;
     private double latitude;
     private double longitude;
-    private double rating;
-    private String category;
     @Column(name="geoHash")
     private String geoHash;
     @Column(name="h3Index")

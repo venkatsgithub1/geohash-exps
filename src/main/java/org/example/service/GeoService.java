@@ -1,5 +1,7 @@
 package org.example.service;
 
+import org.example.model.ResultWithDistance;
+
 import java.util.List;
 
 public interface GeoService {
@@ -7,5 +9,5 @@ public interface GeoService {
 
     double calculateDistanceInMeters(double latitude, double longitude, double latitude2, double longitude2, int precision);
 
-    List<String> findNearbyEstablishments(double latitude, double longitude, int precision, int limit);
+    List<ResultWithDistance> findNearbyEstablishments(double latitude, double longitude, int precision, int limit);
 }
