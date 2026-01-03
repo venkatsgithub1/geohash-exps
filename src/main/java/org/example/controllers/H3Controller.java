@@ -1,6 +1,8 @@
 package org.example.controllers;
 
+import org.example.model.ResultWithDistance;
 import org.example.service.H3Service;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -18,8 +20,8 @@ public class H3Controller {
     }
 
     @GetMapping
-    public List<String> getNearbyVenues(@RequestParam("latitude") double latitude,
-                                        @RequestParam("longitude") double longitude) {
-        return h3Service.findNearbyEstablishments(latitude, longitude, 9, 0);
+    public ResponseEntity<List<ResultWithDistance>> getNearbyVenues(@RequestParam("latitude") double latitude,
+                                                                    @RequestParam("longitude") double longitude) {
+        return ResponseEntity.ok(h3Service.findNearbyEstablishments(latitude, longitude, 9, 0));
     }
 }
