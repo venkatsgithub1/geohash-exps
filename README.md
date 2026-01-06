@@ -9,3 +9,4 @@ For example use `http://localhost:8082/v1/h3?latitude=12.973801&longitude=77.611
 # Improvements
 - A better design is to have a background job like airflow DAG that can ingest places incrementally into DB.
 - A DB outside service other than H2. For the purposes of an experiment, internal DB is fine.
+- Add caffeine cache to services.
